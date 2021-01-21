@@ -1,7 +1,7 @@
 # AIschedu-HPU_schedule
 Henan Polytechnic Educational Administration System Connected to Xiaoai Curriculum
-##If you have any questions, please use the following contact methods to discuss:
-#####NetEase_email:15513924345@163.com
+If you have any questions, please use the following contact methods to discuss:
+##### NetEase_email:15513924345@163.com
 #####QQ_email:1639446186@qq.com
 #####Google_email:1810ylx@gmail.com
 #####Microsoft_email:Y15513924345@Outlook.com
